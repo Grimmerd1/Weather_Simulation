@@ -19,6 +19,10 @@ IoT-based Weather Simulation System using ESP32, MQTT, Unity, and Meta Quest.
 - BMP180
 - Meta Quest
 
+## Documentation
+
+[Project Presentation](presentation/Presentation Weather Simulation ฉบับเพิ่มเติม.pdf)
+
 ## Demo
 
 🎥https://www.youtube.com/watch?v=yeK3bNxMxvY
