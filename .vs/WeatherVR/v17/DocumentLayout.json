@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\WeatherVR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2BEBC-D7EB-0369-43D2-40DF16867259}|Assembly-CSharp.csproj|c:\\users\\admin\\weathervr\\assets\\dhtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2BEBC-D7EB-0369-43D2-40DF16867259}|Assembly-CSharp.csproj|solutionrelative:assets\\dhtcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2BEBC-D7EB-0369-43D2-40DF16867259}|Assembly-CSharp.csproj|c:\\users\\admin\\weathervr\\assets\\raincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2BEBC-D7EB-0369-43D2-40DF16867259}|Assembly-CSharp.csproj|solutionrelative:assets\\raincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2EE2BEBC-D7EB-0369-43D2-40DF16867259}|Assembly-CSharp.csproj|C:\\Users\\Admin\\WeatherVR\\assets\\lightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2EE2BEBC-D7EB-0369-43D2-40DF16867259}|Assembly-CSharp.csproj|solutionrelative:assets\\lightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "DHTController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\WeatherVR\\Assets\\DHTController.cs",
+              "RelativeDocumentMoniker": "Assets\\DHTController.cs",
+              "ToolTip": "C:\\Users\\Admin\\WeatherVR\\Assets\\DHTController.cs",
+              "RelativeToolTip": "Assets\\DHTController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T05:30:10.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RainController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\WeatherVR\\Assets\\RainController.cs",
+              "RelativeDocumentMoniker": "Assets\\RainController.cs",
+              "ToolTip": "C:\\Users\\Admin\\WeatherVR\\Assets\\RainController.cs",
+              "RelativeToolTip": "Assets\\RainController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-22T04:22:43.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LightController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\WeatherVR\\Assets\\LightController.cs",
+              "RelativeDocumentMoniker": "Assets\\LightController.cs",
+              "ToolTip": "C:\\Users\\Admin\\WeatherVR\\Assets\\LightController.cs",
+              "RelativeToolTip": "Assets\\LightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-21T18:57:00.38Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
