@@ -20,6 +20,10 @@ IoT-based Weather Simulation System using ESP32, MQTT, Unity, and Meta Quest.
 - Meta Quest
 
 ## Demo
+
+🎥https://www.youtube.com/watch?v=yeK3bNxMxvY
+🎥https://www.youtube.com/shorts/TYHz-cT6Esw
+
 Example ESP32 code:
 
 ![image alt](images/Esp32code)
